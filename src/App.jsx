@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import {webs} from './data'
+import { webs } from './data'
 import { SearchIcon } from './icons/Search'
 import styles from './app.module.css'
 
@@ -8,7 +8,7 @@ function App () {
   const [data, setData] = useState(webs)
 
   const handleSearch = (event) => {
-    const { value } = event.target;
+    const { value } = event.target
     setSearch(value)
 
     if (value === '') {
