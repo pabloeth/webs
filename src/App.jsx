@@ -40,7 +40,7 @@ function App () {
           <form className={styles.form} onSubmit={handleSubmit}>
             <input
               type='text'
-              placeholder='Ingresa la palabra clave para tu búsqueda'
+              placeholder='Buscar'
               onChange={handleSearch}
               value={search}
               name='search'

@@ -286,5 +286,47 @@ export const data = [
     url: 'https://excalidraw.com/',
     description: 'Dibuja diagramas de forma colaborativa',
     categories: ['utilidades']
+  },
+  {
+    name: 'Shapefile a GeoJSON',
+    url: 'https://products.aspose.app/gis/conversion',
+    description: 'Convierte Shapefile a GeoJSON',
+    categories: ['utilidades', 'json']
+  },
+  {
+    name: 'Transfonter',
+    url: 'https://transfonter.org/',
+    description: 'Convierte diferentes formatos de fuentes web',
+    categories: ['utilidades']
+  },
+  {
+    name: 'JSON Crack',
+    url: 'https://jsoncrack.com/',
+    description: 'Visualiza, analiza y manipula datos JSON de forma fácil',
+    categories: ['utilidades', 'json']
+  },
+  {
+    name: 'Tremor',
+    url: 'https://www.tremor.so/',
+    description: 'Componentes para crear dashboards con React',
+    categories: ['react']
+  },
+  {
+    name: 'Nginx Proxy Manager',
+    url: 'https://nginxproxymanager.com/',
+    description: 'Panel de control para administrar sitios web que se ejecutan en un servidor',
+    categories: ['utilidades']
+  },
+  {
+    name: 'Bento Grids',
+    url: 'https://bentogrids.com/',
+    description: 'Una colección de diseños de sitios web para inspirarte',
+    categories: ['utilidades']
+  },
+  {
+    name: 'Dark Design System',
+    url: 'https://www.dark.design/',
+    description: 'Un sistema de diseño para crear sitios web oscuros',
+    categories: ['utilidades']
   }
 ]
